@@ -11,3 +11,10 @@ In your favorite browser open the same two links: http://localhost:1111 and http
 
 
 
+###In reg and accounts folder ,
+
+ app.jar is  defaultZone: http://reg:1111/eureka/
+ 
+run following command in root 
+
+docker-compose up --build -d 
