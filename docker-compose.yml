@@ -1,0 +1,10 @@
+reg:
+    build: ./reg
+    ports:
+       - "1111:1111"
+accounts:
+    build: ./accounts
+    links:
+       - reg:reg
+    ports:
+       - "2222:2222"
