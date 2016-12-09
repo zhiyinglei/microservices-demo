@@ -1,5 +1,7 @@
 ###In target folder, you can run it locally  :
 
+target/microservice-demo-1.1.0.RELEASE.jar is  defaultZone: http://localhost:1111/eureka/
+
 
 In the first window run: java -jar target/microservice-demo-1.1.0.RELEASE.jar registration and wait for it to start up
 
