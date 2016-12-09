@@ -1,8 +1,5 @@
 ###In target folder, you can run it locally  :
 
-In each window, change to the directory where you cloned the demo
-
-In the first window, build the application using mvn clean package
 
 In the same window run: java -jar target/microservice-demo-1.1.0.RELEASE.jar registration and wait for it to start up
 
